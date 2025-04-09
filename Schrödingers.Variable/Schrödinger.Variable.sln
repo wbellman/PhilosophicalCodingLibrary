@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schrödinger.Variable", "Schrödinger.Variable\Schrödinger.Variable.csproj", "{07198FE8-FE0E-474B-A991-B77C33577B50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schrödinger.Tests", "Schrödinger.Tests\Schrödinger.Tests.csproj", "{64A3F480-FC00-4D51-8AD3-D6DCB2829911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schrödinger.Console", "Schrödinger.Console\Schrödinger.Console.csproj", "{0ABD4DD3-74C0-443B-9D32-E2B07B3EA99C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07198FE8-FE0E-474B-A991-B77C33577B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07198FE8-FE0E-474B-A991-B77C33577B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07198FE8-FE0E-474B-A991-B77C33577B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07198FE8-FE0E-474B-A991-B77C33577B50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64A3F480-FC00-4D51-8AD3-D6DCB2829911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A3F480-FC00-4D51-8AD3-D6DCB2829911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A3F480-FC00-4D51-8AD3-D6DCB2829911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A3F480-FC00-4D51-8AD3-D6DCB2829911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ABD4DD3-74C0-443B-9D32-E2B07B3EA99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ABD4DD3-74C0-443B-9D32-E2B07B3EA99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ABD4DD3-74C0-443B-9D32-E2B07B3EA99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ABD4DD3-74C0-443B-9D32-E2B07B3EA99C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

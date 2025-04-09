@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>ChainLinkFunction.Console</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="library.operations" Version="1.25.1.1752" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Chain.Link.Function\Chain.Link.Function.csproj" />
+    </ItemGroup>
+
+</Project>

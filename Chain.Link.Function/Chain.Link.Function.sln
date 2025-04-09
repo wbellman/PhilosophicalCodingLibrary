@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain.Link.Function.Console", "Chain.Link.Function.Console\Chain.Link.Function.Console.csproj", "{584FF062-074A-420A-836B-4A5BB4CD7E94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain.Link.Function", "Chain.Link.Function\Chain.Link.Function.csproj", "{89BD1421-3AA7-43B9-BE10-EC27942BA229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain.Link.Function.Tests", "Chain.Link.Function.Tests\Chain.Link.Function.Tests.csproj", "{7FA79CAD-BAD3-42EE-9A59-4E973ACE0FDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{584FF062-074A-420A-836B-4A5BB4CD7E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{584FF062-074A-420A-836B-4A5BB4CD7E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{584FF062-074A-420A-836B-4A5BB4CD7E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{584FF062-074A-420A-836B-4A5BB4CD7E94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89BD1421-3AA7-43B9-BE10-EC27942BA229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89BD1421-3AA7-43B9-BE10-EC27942BA229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89BD1421-3AA7-43B9-BE10-EC27942BA229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89BD1421-3AA7-43B9-BE10-EC27942BA229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FA79CAD-BAD3-42EE-9A59-4E973ACE0FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA79CAD-BAD3-42EE-9A59-4E973ACE0FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA79CAD-BAD3-42EE-9A59-4E973ACE0FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA79CAD-BAD3-42EE-9A59-4E973ACE0FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
