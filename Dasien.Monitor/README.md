@@ -1,6 +1,10 @@
 # Heidegger’s Dasein Monitor
-
 _"To be marked present, one must first affirm their existence."_
+
+## Intent
+This project explores how one might approach a non-traditional, highly abstract problem with pragmatic and creative engineering. It is not intended as a production system, but as a speculative exercise in design, system integration, and meaningful absurdity.
+
+---
 
 ## The Problem
 
@@ -32,3 +36,6 @@ This project seeks to build a system that:
 For architecture, message flow, scoring logic, and implementation details, see the  
 📐 [Architectural Overview](./Architecture/README.md)
 
+## Legal
+This work is published under the [MIT License](/LICENSE) by Will Bellman.
+While the license permits broad reuse, this project is a conceptual sketch and not intended for production use without careful evaluation. Proceed with curiosity, not dependency.
